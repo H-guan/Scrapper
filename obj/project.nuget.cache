@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QJBHEkdv18NQnl3KYWq1a6CXLckLMW7/jfGUUaQzer6DRRJ40ct3O7JConGoO0NUqAL08FZKSWSplcQ+HUu6/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\uniqu\\source\\repos\\Scrapper\\Scrapper\\Scrapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\uniqu\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

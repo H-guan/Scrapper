@@ -1,0 +1,15 @@
+C:\Users\uniqu\source\repos\Scrapper\Scrapper\bin\Debug\netcoreapp3.1\Scrapper.exe
+C:\Users\uniqu\source\repos\Scrapper\Scrapper\obj\Debug\netcoreapp3.1\Scrapper.csprojAssemblyReference.cache
+C:\Users\uniqu\source\repos\Scrapper\Scrapper\obj\Debug\netcoreapp3.1\Scrapper.AssemblyInfoInputs.cache
+C:\Users\uniqu\source\repos\Scrapper\Scrapper\obj\Debug\netcoreapp3.1\Scrapper.AssemblyInfo.cs
+C:\Users\uniqu\source\repos\Scrapper\Scrapper\bin\Debug\netcoreapp3.1\Scrapper.deps.json
+C:\Users\uniqu\source\repos\Scrapper\Scrapper\bin\Debug\netcoreapp3.1\Scrapper.runtimeconfig.json
+C:\Users\uniqu\source\repos\Scrapper\Scrapper\bin\Debug\netcoreapp3.1\Scrapper.runtimeconfig.dev.json
+C:\Users\uniqu\source\repos\Scrapper\Scrapper\bin\Debug\netcoreapp3.1\Scrapper.dll
+C:\Users\uniqu\source\repos\Scrapper\Scrapper\bin\Debug\netcoreapp3.1\Scrapper.pdb
+C:\Users\uniqu\source\repos\Scrapper\Scrapper\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\uniqu\source\repos\Scrapper\Scrapper\obj\Debug\netcoreapp3.1\Scrapper.csproj.CoreCompileInputs.cache
+C:\Users\uniqu\source\repos\Scrapper\Scrapper\obj\Debug\netcoreapp3.1\Scrapper.csproj.CopyComplete
+C:\Users\uniqu\source\repos\Scrapper\Scrapper\obj\Debug\netcoreapp3.1\Scrapper.dll
+C:\Users\uniqu\source\repos\Scrapper\Scrapper\obj\Debug\netcoreapp3.1\Scrapper.pdb
+C:\Users\uniqu\source\repos\Scrapper\Scrapper\obj\Debug\netcoreapp3.1\Scrapper.genruntimeconfig.cache
